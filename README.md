@@ -2,6 +2,8 @@
 
 ## Description
 
+In this project I use the MVC model to create a blog site. The blog site has some seeded data and does not accept user input yet. In order to view the posts contents you will need to sign into the blog site.
+
 ## Acceptance Criteria
 
 GIVEN a CMS-style blog site <br>
@@ -76,3 +78,9 @@ __THEN__ I am able to view comments but I am prompted to log in again before I c
     * password
         * STRING
         * Not Null
+
+## Resources
+
+In this project I used code from class materials. In class example number 19 from module 14.
+
+## Deployment
