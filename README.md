@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project I use the MVC model to create a blog site. The blog site has some seeded data and does not accept user input yet. In order to view the posts contents you will need to sign into the blog site.
+In this project I use the MVC model to create a blog site. This project uses session to keep a user logged in. The session was probably the area that held me up the longest and caused me to completely restart this project roughly three times. Other than that I am well practiced with MySQL and using sequelize to seed a database. Currently the blog site has some seeded data and does not accept user input yet. In order to view the posts contents you will need to either sign in or log into the blog site. This project utilizes JawsDB as the database.
 
 ## Acceptance Criteria
 
@@ -83,4 +83,10 @@ __THEN__ I am able to view comments but I am prompted to log in again before I c
 
 In this project I used code from class materials. In class example number 19 from module 14.
 
-## Deployment
+## Screenshot
+
+![PLOT](./public/screen-shots/contentPage.PNG)
+
+## Deployment Link
+
+https://stevs-tech-blog.herokuapp.com/login
